@@ -1,0 +1,20 @@
+{
+  "name": "nag-master-3000",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "Muhamad Shandy Winata",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "nag": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "inquirer": "^13.2.5",
+    "node-notifier": "^10.0.1"
+  }
+}
