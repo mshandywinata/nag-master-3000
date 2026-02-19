@@ -41,7 +41,7 @@ NAG-MASTER-3000
 ? What are you 'supposed' to be doing? Laundry
 ? How long do you need to procrastinate? 5m
 
-[Bot]: Timer started for 300000. I'm watching you.
+[Bot]: Timer started for 5m. I'm watching you.
 
 ... (5 minutes later) ...
 
